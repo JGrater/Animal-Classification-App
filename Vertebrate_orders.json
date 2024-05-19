@@ -1,0 +1,168 @@
+{
+    "Amphibia": [
+        {
+            "name": "Anura",
+            "description": "The Anura include all modern frogs and any fossil species that fit within the anuran definition."
+        },
+        {
+            "name": "Caudata",
+            "description": "The Caudata are a group of amphibians containing the extant salamanders."
+        }
+    ],
+    "Aves":[
+        {
+            "name": "Accipitriformes",
+            "description": "The Accipitriformes are an order of birds that includes most of the diurnal birds of prey, including hawks, eagles, vultures, and kites, but not falcons."
+        },
+        {
+            "name": "Anseriformes",
+            "description": "Anseriformes is an order of birds also known as waterfowl that comprises about 180 living species of birds in three families, including ducks, geese, and swans."
+        },
+        {
+            "name": "Apodiformes",
+            "description": "Apodiformes contains three living families: the swifts (Apodidae), the treeswifts (Hemiprocnidae), and the hummingbirds (Trochilidae)."
+        },
+        {
+            "name": "Charadriiformes",
+            "description": "Charadriiformes is a diverse order of small to medium-large birds that live near water, includes waders, gulls, and auks."
+        },
+        {
+            "name": "Columbiformes",
+            "description": "Columbidae is a bird family consisting of doves and pigeons. It is the only family in the order Columbiformes."
+        },
+        {
+            "name": "Falconiformes",
+            "description": "The order Falconiformes is represented by the extant family Falconidae (falcons and caracaras) and a handful of enigmatic Paleogene species."
+        },
+        {
+            "name": "Galliformes",
+            "description": "Galliformes is an order of heavy-bodied ground-feeding birds that includes turkeys, chickens, quail, and other landfowl."
+        },
+        {
+            "name": "Passeriformes",
+            "description": "Passeriformes are the most familiar, typical birds and the term can be applied to more than half the world's unique bird species, including all the classic songbirds, sparrows, and finches."
+        },
+        {
+            "name": "Pelecaniformes",
+            "description": "The Pelecaniformes are an order of medium-sized and large waterbirds found worldwide, they encompass all birds that have feet with all four toes webbed."
+        },
+        {
+            "name": "Phoenicopteriformes",
+            "description": "Phoenicopteriformes is a group of water birds which comprises flamingos and their extinct relatives. "
+        },
+        {
+            "name": "Piciformes",
+            "description": "Piciformes is a group of largely arboreal birds, which includes the woodpeckers and close relatives, and toucans. They have zygodactyl feet."
+        },
+        {
+            "name": "Procellariiformes",
+            "description": "Procellariiformes is an order of seabirds that comprises four families: the albatrosses, the petrels and shearwaters, and two families of storm petrels."
+        },
+        {
+            "name": "Psittaciformes",
+            "description": "Parrots are birds of the roughly 398 species in 92 genera comprising the order Psittaciformes, found mostly in tropical and subtropical regions."
+        },
+        {
+            "name": "Sphenisciformes",
+            "description": "Penguins, order Sphenisciformes, are a group of aquatic flightless birds."
+        },
+        {
+            "name": "Strigiformes",
+            "description": "Owls are birds from the order Strigiformes, mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing, sharp talons, and feathers adapted for silent flight."
+        },
+        {
+            "name": "Struthioniformes",
+            "description": "Struthioniformes is an order of birds with only a single extant family, Struthionidae, containing the ostriches."
+        }
+    ],
+    "Fish": [
+        {
+            "name": "Ray-Finned Fish",
+            "description": "Actinopterygii, members of which are known as ray-finned fishes, is a class of bony fish. They comprise over 50% of living vertebrate species."
+        },
+        {
+            "name": "Rays",
+            "description": "Rays are the largest group of cartilaginous fishes, with well over 600 species in 26 families. Rays are distinguished by their flattened bodies, enlarged pectoral fins that are fused to the head, and gill slits that are placed on their ventral surfaces."
+        },
+        {
+            "name": "Sharks",
+            "description": "Sharks are a group of elasmobranch fish characterized by a cartilaginous skeleton, five to seven gill slits on the sides of the head, and pectoral fins that are not fused to the head."
+        }
+    ],
+    "Mammalia": [
+        {
+            "name": "Artiodactyla",
+            "description": "Artiodactyla, or cloven-hooved mammals, include such familiar animals as sheep, goats, camels, pigs, cows, deer, giraffes, and antelopes — most of the world's species of large land mammals are artiodactyls."
+        },
+        {
+            "name": "Carnivora",
+            "description": "Carnivora is an order of placental mammals that have specialized in primarily eating flesh, whose members are formally referred to as carnivorans. The order Carnivora is the fifth largest order of mammals, comprising at least 279 species."
+        },
+        {
+            "name": "Cetacea",
+            "description": "Cetaceans are an infraorder of aquatic mammals that includes whales, dolphins, and porpoises."
+        },
+        {
+            "name": "Chiroptera",
+            "description": "Bats are mammals of the order Chiroptera. With their forelimbs adapted as wings, they are the only mammals capable of true and sustained flight."
+        },
+        {
+            "name": "Edentata",
+            "description": "Edentata is a major clade of placental mammals native to the Americas. There are 31 living species: the anteaters, tree sloths, and armadillos."
+        },
+        {
+            "name": "Eulipotyphia",
+            "description": "Eulipotyphla comprises the hedgehogs and gymnures, solenodons, the desmans, moles, and shrew-like moles and true shrews."
+        },
+        {
+            "name": "Lagomorpha",
+            "description": "Lagomorpha, any member of the mammalian order made up of the relatively well-known rabbits and hares and also the less frequently encountered pikas."
+        },
+        {
+            "name": "Marsupials",
+            "description": "Marsupials are the group of mammals commonly thought of as pouched mammals."
+        },
+        {
+            "name": "Monotremata",
+            "description": "Monotremata, are egg-laying mammals, which includes the amphibious platypus and the terrestrial echidnas."
+        },
+        {
+            "name": "Perissodactyla",
+            "description": "Perissodactyls are odd-toed ungulates. Includes about 17 species including horses, asses, zebras, rhinoceroses, and tapirs."
+        },
+        {
+            "name": "Pinnipedia",
+            "description": "Pinnipeds commonly known as seals, are a widely distributed and diverse clade of carnivorous, fin-footed, semiaquatic, mostly marine mammals."
+        },
+        {
+            "name": "Primates",
+            "description": "A primate is any mammal of the group that includes lemurs, lorises, tarsiers, monkeys, apes, and humans."
+        },
+        {
+            "name": "Proboscidea",
+            "description": "The Proboscidea are a taxonomic order of afrotherian mammals containing one living Elephant family and several extinct families."
+        },
+        {
+            "name": "Rodentia",
+            "description": "Rodentia are characterized by a single pair of continuously growing incisors in each of the upper and lower jaws. Include mice, rats, squirrels, prairie dogs, porcupines, beavers, guinea pigs, and hamsters."
+        },
+        {
+            "name": "Sirenia",
+            "description": "The Sirenia, commonly referred to as sea cows or sirenians, are an order of fully aquatic, herbivorous mammals that inhabit swamps, rivers, estuaries, marine wetlands, and coastal marine waters."
+        }
+    ],
+    "Reptilia": [
+        {
+            "name": "Crocodilia",
+            "description": "Crocodilia is an order of mostly large, predatory, semiaquatic reptiles, known as crocodilians. They first appeared 95 million years ago in the Late Cretaceous period and are the closest living relatives of birds."
+        },
+        {
+            "name": "Squamata",
+            "description": "Squamata is the largest order of reptiles, comprising lizards, snakes, and worm lizards, which are collectively known as squamates or scaled reptiles."
+        },
+        {
+            "name": "Testudines",
+            "description": "The order testudines is a monophyletic clade containing 260 species of extant turtles, terrapins and tortoises in 13 families."
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Arachnida": [
+        {
+            "name": "Araneae",
+            "description": "Spiders are air-breathing arthropods that have eight legs, chelicerae with fangs generally able to inject venom, and spinnerets that extrude silk. They are the largest order of arachnids and rank seventh in total species diversity among all orders of organisms."
+        },
+        {
+            "name": "Scorpiones",
+            "description": "Scorpions are predatory arachnids. They have eight legs, and are easily recognized by a pair of grasping pincers and a narrow, segmented tail, often carried in a characteristic forward curve over the back and always ending with a stinger."
+        }
+    ],
+    "Cnidaria":[
+        {
+            "name": "Anthozoa",
+            "description": "Anthozoa is a class of marine invertebrates which includes the sea anemones, stony corals and soft corals. Adult anthozoans are almost all attached to the seabed, while their larvae can disperse as part of the plankton."
+        },
+        {
+            "name": "Medusozoa",
+            "description": "Medusozoa is a clade in the phylum Cnidaria. Medusozoans are distinguished by having a medusa stage in their often complex life cycle, a medusa typically being an umbrella-shaped body with stinging tentacles around the edge."
+        }
+    ],
+    "Crustacea": [
+        {
+            "name": "Crab",
+            "description": "Crabs are decapod crustaceans. They live in all the world's oceans, in freshwater, and on land, are generally covered with a thick exoskeleton, and have a single pair of pincers. They first appeared during the Jurassic Period."
+        },
+        {
+            "name": "Crayfish",
+            "description": "Crayfish are freshwater crustaceans belonging to the clade Astacidea, which also contains lobsters. Some species are found in brooks and streams, where fresh water is running, while others thrive in swamps, ditches, and paddy fields."
+        },
+        {
+            "name": "Lobster",
+            "description": "Lobsters are a family of marine crustaceans. They have long bodies with muscular tails and live in crevices or burrows on the sea floor. Three of their five pairs of legs have claws, including the first pair, which are usually much larger than the others."
+        }
+    ],
+    "Echinodermata": [
+        {
+            "name": "Asterozoa",
+            "description": "The Asterozoa are a subphylum in the phylum Echinodermata. Characteristics include a star-shaped body and radially divergent axes of symmetry. Includes the starfish, the brittle stars, and basket stars."
+        },
+        {
+            "name": "Echinozoa",
+            "description": "Echinozoa is a subphylum of free-living echinoderms in which the body is or originally was a modified globe with meridional symmetry. Echinozoans lack arms, brachioles, or other appendages, and do not at any time exhibit pinnate structure. Their two extant classes are the sea urchins and the sea cucumbers. "
+        }
+    ],
+    "Insecta": [
+        {
+            "name": "Blattodea",
+            "description": "Blattodea is an order of insects that contains cockroaches and termites."
+        },
+        {
+            "name": "Coleoptera",
+            "description": "Beetles are insects that form the order Coleoptera. Their front pair of wings are hardened into wing-cases, elytra, distinguishing them from most other insects."
+        },
+        {
+            "name": "Diptera",
+            "description": "Flies are insects of the order Diptera. Insects of this order use only a single pair of wings to fly, the hindwings having evolved into advanced mechanosensory organs known as halteres, which act as high-speed sensors of rotational movement and allow dipterans to perform advanced aerobatics."
+        },
+        {
+            "name": "Hymenoptera",
+            "description": "Hymenoptera is a large order of insects, comprising the sawflies, wasps, bees, and ants. Over 150,000 living species of Hymenoptera have been described, in addition to over 2,000 extinct ones. Many of the species are parasitic."
+        },
+        {
+            "name": "Larvae",
+            "description": "Larvae is the active immature form of an insect, especially one that differs greatly from the adult and forms the stage between egg and pupa, for example a caterpillar or grub."
+        },
+        {
+            "name": "Lepidoptera",
+            "description": "Lepidoptera is an order of insects that includes butterflies and moths. About 180,000 species of the Lepidoptera are described, in 126 families and 46 superfamilies, 10 percent of the total described species of living organisms. It is one of the most widespread and widely recognizable insect orders in the world."
+        },
+        {
+            "name": "Odonata",
+            "description": "Odonata is an order of flying insects that includes the dragonflies and damselflies. The adults are easily recognized by their two pairs of narrow, transparent wings, sloping thorax, and long, usually slender body; the abdomen is almost always longer than any of the wings."
+        },
+        {
+            "name": "Orthoptera",
+            "description": "Orthoptera is an order of insects that comprises the grasshoppers, locusts, and crickets. The insects in the order have incomplete metamorphosis, and produce sound by rubbing their wings against each other or their legs, the wings or legs containing rows of corrugated bumps"
+        }
+    ],
+    "Cephalopoda": [
+        {
+            "name": "Decapodiformes",
+            "description": "Decapodiformes is a superorder comprising all cephalopod species with ten limbs, specifically eight short arms and two long tentacles. Made up of squids and cuttlefish."
+        },
+        {
+            "name": "Nautilida",
+            "description": "The nautilus is a pelagic marine mollusc of the cephalopod family Nautilidae. Nautilidae, both extant and extinct, are characterized by involute or more or less convolute shells that are generally smooth, with compressed or depressed whorl sections, straight to sinuous sutures, and a tubular, generally central siphuncle."
+        },
+        {
+            "name": "Octopoda",
+            "description": "An octopus is a soft-bodied, eight-limbed mollusc of the order Octopoda. The order consists of some 300 species. An octopus is bilaterally symmetric with two eyes and a beaked mouth at the center point of the eight limbs. The soft body can radically alter its shape, enabling octopuses to squeeze through small gaps."
+        }
+    ]
+}
