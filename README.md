@@ -1,5 +1,3 @@
-# Animal-Classification-App
-
 # Animal Classification App
 
 ## Overview
